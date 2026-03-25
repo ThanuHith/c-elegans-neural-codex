@@ -1,4 +1,9 @@
 # C. elegans Neural Worm Simulator
+## 🎮 Try It Yourself (Live Demo)
+
+Experience the simulation in real time:
+
+👉 🔗 [Open Web App](https://c-elegans-neural-codex-ldtksrfdrks4rcqlcu47bi.streamlit.app/)
 
 <img width="1837" height="794" alt="image" src="https://github.com/user-attachments/assets/b2f74655-2f03-4050-a16e-fc2e42d96062" />
 <img width="1785" height="810" alt="image" src="https://github.com/user-attachments/assets/c7557e12-1102-4806-a702-b9c754982292" />
