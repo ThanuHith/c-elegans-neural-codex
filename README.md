@@ -1,8 +1,7 @@
 # C. elegans Neural Worm Simulator
 
 <img width="1837" height="794" alt="image" src="https://github.com/user-attachments/assets/b2f74655-2f03-4050-a16e-fc2e42d96062" />
-![Uploading image.png…]()
-
+<img width="1785" height="810" alt="image" src="https://github.com/user-attachments/assets/c7557e12-1102-4806-a702-b9c754982292" />
 
 
 This project is a modular, research-grade simulation scaffold for a *Caenorhabditis elegans*-inspired digital organism. It combines a spiking neural network, a segmented body model, a 2D environment, and a pharmacology layer so behavior emerges from neural activity instead of from hardcoded movement rules.
